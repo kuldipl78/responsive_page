@@ -18,6 +18,6 @@ const ProjectItem = props => {
       </li>
     </>
   )
-}
+};
 
 export default ProjectItem
